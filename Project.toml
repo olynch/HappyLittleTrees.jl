@@ -1,0 +1,8 @@
+name = "HappyLittleTrees"
+uuid = "c30bc3ac-3adb-478c-a90a-a1709e33a08d"
+authors = ["Owen Lynch <root@owenlynch.org>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
